@@ -29,11 +29,9 @@ To deploy this project run
 
 ![App Screenshot](https://github.com/prashas1/Predicting_Heart_Disease_Using_Machine_Learning/assets/164464896/3afe294d-fccc-4a8e-b5eb-4e6cf08c14c1)
 
-![App Screenshot](https://github.com/prashas1/Predicting-Heart_Disease/assets/164464896/0e30ef49-b466-4722-8fd3-d0c7d0ec6d90)
+![App Screenshot](https://github.com/prashas1/Predicting_Heart_Disease_Using_Machine_Learning/assets/164464896/d063c94a-e7e8-4b1d-ba5d-1941acf73f60)
 
-![App Screenshot](https://github.com/prashas1/Predicting-Heart_Disease/assets/164464896/cf1832e8-bf25-4a86-83a1-dd5f57239036)
-
-![App Screenshot](https://github.com/prashas1/Predicting-Heart_Disease/assets/164464896/9451e993-6a52-4a80-bccc-6c43b7851dad)
+![App Screenshot](https://github.com/prashas1/Predicting_Heart_Disease_Using_Machine_Learning/assets/164464896/246e7f24-65e3-4143-ab92-03c9b5e5ff4c)
 
 
 ## 🛠 Skills
