@@ -27,7 +27,7 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://github.com/prashas1/Predicting-Heart_Disease/assets/164464896/4bed9b10-c3bc-49ef-9e8b-c2b94d1e58a2)
+![App Screenshot](https://github.com/prashas1/Predicting_Heart_Disease_Using_Machine_Learning/assets/164464896/3afe294d-fccc-4a8e-b5eb-4e6cf08c14c1)
 
 ![App Screenshot](https://github.com/prashas1/Predicting-Heart_Disease/assets/164464896/0e30ef49-b466-4722-8fd3-d0c7d0ec6d90)
 
